@@ -1,4 +1,11 @@
 ### Hi there 👋
+大家好！很高兴在这个全新的环境里认识大家
+
+我叫周逢枫，来自福建宁德，是一民土生土长的“胡建人”
+
+我对我的大学生活充满了憧憬，希望在大学能够学到更多的知识和在大学里能认识很多新的朋友
+
+很高兴遇见你！
 
 <!--
 **Gimgoon9/Gimgoon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
